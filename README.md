@@ -1,5 +1,6 @@
 # ExpertiseCar
--The ExpertiseCar application is a simple PyQt5-based GUI program that interacts with an SQLite database ('ExpertiseCar.db'). The application allows users to view data from three tables: "Cars_info," "Damages_info," and "Equipments."
+-The ExpertiseCar application is a simple PyQt5-based GUI program that interacts with an SQLite database ('ExpertiseCar.db') and it helps to manage the expertise companies for cars. 
+The application allows users to view data from three tables: "Cars_info," "Damages_info," and "Equipments." and provides information on the past of any car available in the market.
 
 ## Requirements
 - Python 3.x
